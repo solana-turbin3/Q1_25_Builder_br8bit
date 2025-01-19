@@ -1,0 +1,6 @@
+/wallets
+/node_modules
+/target
+*wallet.json
+*.env
+*.log
