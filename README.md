@@ -21,4 +21,4 @@ This repository contains the code for the tasks and projects developed and optim
 - 🦀 [Rust](https://www.rust-lang.org/)
 - 🚀 [Typescript](https://www.typescriptlang.org/)
 - ⚓️ [Anchor](https://www.anchor-lang.com/)
-- <img src="https://avatars.githubusercontent.com/u/84874526?s=200&v=4" alt="metaplex" width="20" align="center"/> [Metaplex](https://www.metaplex.com/)
+- <img src="https://avatars.githubusercontent.com/u/84874526?s=200&v=4" alt="metaplex" width="20"/> [Metaplex](https://www.metaplex.com/)
