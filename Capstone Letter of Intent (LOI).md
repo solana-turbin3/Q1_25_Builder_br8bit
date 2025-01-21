@@ -20,29 +20,28 @@ Intellectual property theft and ownership disputes are widespread issues in toda
 
 **Target Audience:**
 
-- **Creators:** Artists, writers, musicians, software developers, and other innovators who need to secure their work.
-- **Startups and SMEs:** Businesses that require affordable and accessible IP registration for their innovations.
-- **Legal Professionals:** Lawyers and IP consultants seeking verifiable and immutable proof of IP ownership for their clients.
+- Creators: Artists, writers, musicians, software developers, and other innovators who need to secure their work.
+- Startups and SMEs: Businesses that require affordable and accessible IP registration for their innovations.
+- Legal Professionals: Lawyers and IP consultants seeking verifiable and immutable proof of IP ownership for their clients.
 
 **Value Proposition:**
 
-- **For Creators:** A fast, affordable, and secure way to register and verify intellectual property.
-- **For Businesses:** A transparent and immutable system that reduces the risk of IP disputes.
-- **For Legal Professionals:** Reliable, on-chain evidence for legal protection and validation.
+- For Creators: A fast, affordable, and secure way to register and verify intellectual property.
+- For Businesses: A transparent and immutable system that reduces the risk of IP disputes.
+- For Legal Professionals: Reliable, on-chain evidence for legal protection and validation.
 
 **Marketing and Distribution:**
 
-- **Social Media Campaigns:** Leverage Twitter, LinkedIn, and Instagram to engage with creators and innovators.
-- **Educational Content:** Publish blogs, webinars, and tutorials about blockchain-based IP protection.
-- **Community Building:** Partner with creator communities and blockchain enthusiasts.
-- **Collaborations:** Work with law firms, universities, and startup incubators to promote the platform.
-- **Hackathons and Events:** Participate in and sponsor blockchain hackathons and Solana ecosystem events.
+- Social Media Campaigns: Leverage Twitter, LinkedIn, and Instagram to engage with creators and innovators.
+- Educational Content: Publish blogs, webinars, and tutorials about blockchain-based IP protection.
+- Community Building: Partner with creator communities and blockchain enthusiasts.
+- Collaborations: Work with law firms, universities, and startup incubators to promote the platform.
+- Hackathons and Events: Participate in and sponsor blockchain hackathons and Solana ecosystem events.
 
 **Competitive Landscape:**
 
-- **Existing Solutions:** Centralized platforms like WIPO and decentralized IP platforms on Ethereum.
-- **Differentiation:**
-Solana’s speed and low costs make it more scalable and accessible than Ethereum-based solutions.
+- Existing Solutions: Centralized platforms like WIPO and decentralized IP platforms on Ethereum.
+- Differentiation: Solana’s speed and low costs make it more scalable and accessible than Ethereum-based solutions.
 Focused on user-friendly onboarding for non-technical users.
 Comprehensive features such as digital ownership certificates, dispute resolution mechanisms, and integration with legal frameworks.
 
@@ -58,15 +57,15 @@ Comprehensive features such as digital ownership certificates, dispute resolutio
 
 **Tech Stack:**
 
-- **Blockchain Platform:** Solana
-- **Programming Languages:** Rust for smart contract development (Anchor framework), TypeScript for frontend and backend.
-- **Frontend Framework:** React/Next.js
-- **Database:** Decentralized storage using Arweave/IPFS for storing metadata and documents.
-- **APIs:** Solana Web3.js for blockchain interactions.
+- Blockchain Platform: Solana
+- Programming Languages: Rust for smart contract development (Anchor framework), TypeScript for frontend and backend.
+- Frontend Framework: React/Next.js
+- Database: Decentralized storage using Arweave/IPFS for storing metadata and documents.
+- APIs: Solana Web3.js for blockchain interactions.
 
 **Smart Contract Development:**
 
-- **Language:** Rust, leveraging Solana’s high-performance architecture for efficient and secure smart contracts.
-- **Testing:** Comprehensive unit and integration testing using Solana’s test suite.
-- **Security Audits:** Partner with blockchain security firms to ensure robust smart contract security.
-- **Formal Verification:** Explore tools for formal verification to validate smart contract correctness.
+- Language: Rust, leveraging Solana’s high-performance architecture for efficient and secure smart contracts.
+- Testing: Comprehensive unit and integration testing using Solana’s test suite.
+- Security Audits: Partner with blockchain security firms to ensure robust smart contract security.
+- Formal Verification: Explore tools for formal verification to validate smart contract correctness.
