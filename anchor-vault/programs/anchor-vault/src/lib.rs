@@ -56,7 +56,7 @@ pub struct Initialize<'info> {
     pub system_program: Program<'info, System>,
 }
 
-impl<'info> Initialize<'info> {
+impl Initialize<'_> {
     pub fn initialize(&mut self, bumps: &InitializeBumps) -> Result<()> {
         self.vault_state.vault_bump = bumps.vault;
         self.vault_state.state_bump = bumps.vault_state;
@@ -85,7 +85,7 @@ pub struct Payment<'info> {
     pub system_program: Program<'info, System>,
 }
 
-impl<'info> Payment<'info> {
+impl Payment<'_> {
     pub fn deposit(&mut self, amount: u64) -> Result<()> {
         let cpi_program = self.system_program.to_account_info();
 
@@ -142,7 +142,7 @@ pub struct Close<'info> {
     pub system_program: Program<'info, System>,
 }
 
-impl<'info> Close<'info> {
+impl Close<'_> {
     pub fn close(&mut self) -> Result<()> {
         let cpi_program = self.system_program.to_account_info();
 
