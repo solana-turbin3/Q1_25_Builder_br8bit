@@ -2,13 +2,15 @@
 
 This repository contains the code for the tasks and projects developed and optimized during my participation in the Turbin3 Q1 2025 Builders Cohort
 
-## Projects
+## Index
 
 - [turbin3-prereq-ts](/turbin3-prereq-ts/) - The initial prerequisite task, written in TypeScript, involves executing an on-chain transaction on the Solana blockchain.
 
 - [turbin3-prereq-rust](/turbin3-prereq-rust/) - The second and final prerequisite task, written in Rust, involves executing an on-chain transaction on the Solana blockchain.
 
 - [solana-starter](/solana-starter/) - Includes code for creating, minting, and transferring NFTs on the Solana blockchain.
+
+- [Capstone Letter of Intent](Capstone%20Letter%20of%20Intent%20(LOI).md) - Capstone project overview and details.
 
 ## NFTs
 
