@@ -15,6 +15,9 @@ no-entrypoint = []
 no-idl = []
 no-log-ix-name = []
 idl-build = ["anchor-lang/idl-build"]
+custom-panic = []
+anchor-debug = []
+custom-heap = []
 
 [dependencies]
 anchor-lang = "0.30.1"
