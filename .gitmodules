@@ -1,3 +1,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = git@github.com:br8bit/anchor-escrow.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = git@github.com:br8bit/solana-anchor-vault.git
