@@ -1,0 +1,3 @@
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = git@github.com:br8bit/anchor-escrow.git
