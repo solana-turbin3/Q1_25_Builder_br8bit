@@ -4,3 +4,9 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = git@github.com:br8bit/solana-anchor-vault.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = git@github.com:br8bit/solana-anchor-marketplace.git
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = git@github.com:br8bit/solana-anchor-amm.git
