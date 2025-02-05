@@ -10,3 +10,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = git@github.com:br8bit/solana-anchor-amm.git
+[submodule "capstone-project"]
+	path = capstone-project
+	url = git@github.com:br8bit/solana-capstone-project.git
