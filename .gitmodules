@@ -13,3 +13,6 @@
 [submodule "capstone-project"]
 	path = capstone-project
 	url = git@github.com:br8bit/solana-capstone-project.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = git@github.com:br8bit/solana-nft-staking.git
