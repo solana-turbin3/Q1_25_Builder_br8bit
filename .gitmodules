@@ -16,3 +16,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = git@github.com:br8bit/solana-nft-staking.git
+[submodule "anchor-dice"]
+	path = anchor-dice
+	url = git@github.com:br8bit/anchor-dice-game.git
