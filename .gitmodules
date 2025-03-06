@@ -22,3 +22,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = git@github.com:br8bit/solana-starter.git
+[submodule "turbin3-prereq-rust"]
+	path = turbin3-prereq-rust
+	url = git@github.com:br8bit/turbin3-prereq-rust.git
