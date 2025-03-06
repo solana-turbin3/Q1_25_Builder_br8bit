@@ -19,3 +19,6 @@
 [submodule "anchor-dice"]
 	path = anchor-dice
 	url = git@github.com:br8bit/anchor-dice-game.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:br8bit/solana-starter.git
