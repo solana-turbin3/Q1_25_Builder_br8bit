@@ -25,3 +25,6 @@
 [submodule "turbin3-prereq-rust"]
 	path = turbin3-prereq-rust
 	url = git@github.com:br8bit/turbin3-prereq-rust.git
+[submodule "turbin3-prereq-ts"]
+	path = turbin3-prereq-ts
+	url = git@github.com:br8bit/turbin3-prereq-ts.git
